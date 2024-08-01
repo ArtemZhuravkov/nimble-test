@@ -3,7 +3,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 export const nimbleApi = createApi({
   reducerPath: "nimble/api",
   baseQuery: fetchBaseQuery({
-    baseUrl: "",
+    baseUrl: "https://floating-stream-98147-501193bb85e4.herokuapp.com/https://live.devnimble.com",
     prepareHeaders: (headers, { getState }) => {
       headers.set("Authorization", "Bearer VlP9cwH6cc7Kg2LsNPXpAvF6QNmgZn");
       return headers;
