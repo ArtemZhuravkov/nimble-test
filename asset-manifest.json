@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1afbc30.css",
-    "main.js": "/static/js/main.a149f07e.js",
-    "index.html": "/index.html",
-    "main.c1afbc30.css.map": "/static/css/main.c1afbc30.css.map",
-    "main.a149f07e.js.map": "/static/js/main.a149f07e.js.map"
+    "main.css": "/nimble-test/static/css/main.c1afbc30.css",
+    "main.js": "/nimble-test/static/js/main.a149f07e.js",
+    "index.html": "/nimble-test/index.html",
+    "main.c1afbc30.css.map": "/nimble-test/static/css/main.c1afbc30.css.map",
+    "main.a149f07e.js.map": "/nimble-test/static/js/main.a149f07e.js.map"
   },
   "entrypoints": [
     "static/css/main.c1afbc30.css",
