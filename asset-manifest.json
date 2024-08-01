@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nimble-test/static/css/main.c1afbc30.css",
+    "main.js": "/nimble-test/static/js/main.9853f70c.js",
+    "index.html": "/nimble-test/index.html",
+    "main.c1afbc30.css.map": "/nimble-test/static/css/main.c1afbc30.css.map",
+    "main.9853f70c.js.map": "/nimble-test/static/js/main.9853f70c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1afbc30.css",
+    "static/js/main.9853f70c.js"
+  ]
+}
